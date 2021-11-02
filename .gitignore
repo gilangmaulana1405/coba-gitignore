@@ -1,0 +1,8 @@
+# menyimpan file
+config.txt
+
+# menyimpan folder
+img/
+
+# menyimpan file berdasarkan format ekstensi
+*.exe
